@@ -1,0 +1,2 @@
+version=3
+https://github.com/defunctzombie/node-util/tags .*/archive/v(\d[\d\.]+)\.tar\.gz
